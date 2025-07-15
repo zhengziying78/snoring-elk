@@ -47,6 +47,10 @@ It is designed to be privacy-friendly, lightweight, and easy to use.
 ### 📱 Platform & Tech Stack
 - **iOS Only**
 - Written in **Swift (Native)** using **Xcode**.
+- **Native iPhone and iPad Support:**
+  - App must natively support both iPhone and iPad from the beginning.
+  - UI components, layout, views, constants, spacing, and ratios should be implemented to work seamlessly on both device types.
+  - Design UI architecture to prevent iPhone layout changes from breaking iPad layout and vice versa.
 
 ---
 
